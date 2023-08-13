@@ -8,7 +8,7 @@ You can find some of my projects here, on the code I wrote for internship last s
 
 Here's a brief summary on the self-initiated projects I have worked on: 
 1. I obtained the data from online sources like Kaggle to practice data cleaning, manipulation and visualization.Disclaimer: The visualisations generated are slighly squished and appear much better on VSCode as opposed to Jupyter Notebook. 
-2. WineReviewsAnalysis is my analysis of a set of about 150,000 reviews on Wine in many countries and provinces around the world. 
+2. WineReviewsAnalysis - my analysis of a set of about 150,000 reviews on Wine in many countries and provinces around the world. 
 
 The algorithms are quite basic in Finance terms, meaning they don't quite consider as many indicators and metrics as a trader would, but it's a work in progress. 
 
