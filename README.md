@@ -1,8 +1,5 @@
-Hey, welcome to 
-# frznprograms
-(read Frozone programs) 
 
-I'm an aspiring Data Scientist/Algorithmic Trader from NUS. I just started on my journey exploring the vast world of Data Science and Quantitative Finance. So far, it's been pretty cool. 
+# Miscellaneous Coding Projects #
 
 You can find some of my projects here, on the code I wrote for internship last summer, some self-initiated projects I've worked on and some Algorithmic Trading. Please note that I have removed some of the details and comments from the code I wrote during my internship to maintain the confidentiality of the data that was given to me. 
 
@@ -19,6 +16,8 @@ Here's a brief summary of the trading algorithms:
 
 All these algorithms are built using the LEAN Engine on QuantConnect. 
 
-Have fun perusing! I hope my projects can offer you some inspiration, ideas or maybe even spark your interest in my chosen fields (if you're not already down the rabbit hole like I am). If you want to contact me, you can always find me here: www.linkedin.com/in/shane-bharathan
+In addition, I have included two more mini projects I embarked on: 
+1. Creating my own mini neural network using PyTorch for text classification tasks
+2. Setting up a chat interface with ChatGPT's API
 
 
